@@ -164,9 +164,7 @@ __Links for Python Notebooks used for model creation__
 
 
 ## Team
-![1622949162341](https://github.com/vanshchaudhari/vanshchaudhari/blob/main/team.jpg)
-
-
+![1622949162341]
 
 [Vansh Chaudhary (Data modeling, model integration, Front-end)](http://linkedin.com/in/vansh-chaudhari) <br> [Diksha Jain (Exploratory Data cleaning, Data gathering)](https://www.linkedin.com/in/dikshajain1306) 
 <br>
